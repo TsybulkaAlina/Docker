@@ -9,7 +9,6 @@ build.gradle
 dradle
 pgdata
 gradle/*
-img.png
 settings.gradle
 
 
@@ -49,7 +48,7 @@ out/
 *.zip
 *.tar.gz
 *.rar
-*.png
+
 
 ### Exclusions ###
 !db-api.jar
