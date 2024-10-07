@@ -8,7 +8,8 @@ gradlew.bat
 build.gradle
 dradle
 pgdata
-gradle/wrapper
+gradle/*
+img.png
 settings.gradle
 
 
