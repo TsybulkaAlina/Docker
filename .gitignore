@@ -8,6 +8,9 @@ gradlew.bat
 build.gradle
 dradle
 pgdata
+gradle/wrapper
+settings.gradle
+
 
 ### STS ###
 .apt_generated
@@ -45,6 +48,7 @@ out/
 *.zip
 *.tar.gz
 *.rar
+*.png
 
 ### Exclusions ###
 !db-api.jar
